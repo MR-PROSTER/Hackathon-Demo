@@ -1,4 +1,3 @@
-import Accordion from "./Accordion";
 import FaqItems from "./FaqItems";
 
 const Faq = () => {

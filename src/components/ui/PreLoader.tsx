@@ -1,4 +1,4 @@
-import { easeInOut, motion, useAnimate } from "motion/react";
+import { useAnimate } from "motion/react";
 import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 

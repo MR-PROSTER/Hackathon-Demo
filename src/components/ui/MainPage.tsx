@@ -12,6 +12,7 @@ import Footer from "./Footer";
 
 const MainPage = () => {
   const lenis = useLenis();
+  console.log(lenis);
 
   const container = useRef(null);
   const { scrollYProgress } = useScroll({

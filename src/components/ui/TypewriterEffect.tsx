@@ -13,7 +13,7 @@ interface TypewriterProps {
   cursorClassName?: string;
 }
 
-const TypewriterEffect: React.FC<TypewriterProps> = ({
+export const TypewriterEffect: React.FC<TypewriterProps> = ({
   words,
   className,
   cursorClassName,

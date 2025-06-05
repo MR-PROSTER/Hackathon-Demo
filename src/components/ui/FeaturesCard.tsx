@@ -5,7 +5,6 @@ const Card = ({
   title,
   description,
   src,
-  color,
   progress,
   range,
   targetScale,
